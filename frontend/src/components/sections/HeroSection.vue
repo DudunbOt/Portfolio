@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import DOMPurify from 'dompurify'
+// import DOMPurify from 'dompurify'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Button } from '@/components/ui/button'
 import { useSmoothScroll } from '@/composables/useSmoothScroll'
@@ -19,13 +19,13 @@ const initials = computed(() => {
     .toUpperCase()
 })
 
-const sanitizedBio = computed(() => {
-  if (!profile.value?.bio) return ''
-  return DOMPurify.sanitize(profile.value.bio, {
-    ALLOWED_TAGS: ['strong', 'em', 'b', 'i', 'a', 'br', 'p', 'span', 'u'],
-    ALLOWED_ATTR: ['href', 'target', 'rel', 'class']
-  })
-})
+// const sanitizedBio = computed(() => {
+//   if (!profile.value?.bio) return ''
+//   return DOMPurify.sanitize(profile.value.bio, {
+//     ALLOWED_TAGS: ['strong', 'em', 'b', 'i', 'a', 'br', 'p', 'span', 'u'],
+//     ALLOWED_ATTR: ['href', 'target', 'rel', 'class']
+//   })
+// })
 </script>
 
 <template>
