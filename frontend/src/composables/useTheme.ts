@@ -1,6 +1,6 @@
 import { ref, watchEffect, onMounted } from 'vue'
 
-const isDark = ref(false)
+const isDark = ref(true)
 
 export function useTheme() {
   const toggleTheme = () => {
