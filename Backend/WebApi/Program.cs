@@ -26,6 +26,8 @@ logger.Debug("Application starting...");
 try
 {
     var builder = WebApplication.CreateBuilder(args);
+    var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+    builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 
     // NLog: Setup NLog for Dependency injection
     builder.Logging.ClearProviders();
