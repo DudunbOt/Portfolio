@@ -1,0 +1,249 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Pineda Prima Yoga",
+    "title": "Software Engineer",
+    "summary": "I’m a Web Developer who enjoys building reliable and practical web applications that solve real business problems. I work closely with workflows and system logic, especially for operational and procurement-related systems, with a strong focus on maintainability, scalability, and handling edge cases properly. I care about creating solutions that are not only functional, but also efficient and easy to use in day-to-day operations.",
+    "imageUrl": null,
+    "resumeUrl": "https://drive.google.com/file/d/1vzPoxN1JU7jPnUxUQfiYdNuXZ93AMe5Q/view?usp=sharing",
+    "email": "pinedaprima12@gmail.com",
+    "phoneNumber": "+6285716570998",
+    "location": "Your Location"
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "GitHub",
+      "value": "https://github.com/DudunbOt",
+      "icon": "github"
+    },
+    {
+      "id": 2,
+      "name": "LinkedIn",
+      "value": "https://www.linkedin.com/in/pineda-prima-yoga-25161a197/",
+      "icon": "linkedin"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Hongsangbio Landing Page",
+      "description": "Landing Page for Hongsangbio Temple",
+      "techStacks": ["Yii2","HTML","CSS","Javascript"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2022-05-30",
+      "endDate": "2022-06-06"
+    },
+    {
+      "id": 2,
+      "name": "Presence Recording IoT",
+      "description": "Presence Recording for CV Citra Pustaka using IoT to record Card based ID",
+      "techStacks": ["Arduino"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2022-02-02",
+      "endDate": "2022-10-10"
+    },
+    {
+      "id": 3,
+      "name":"ADM Sparepart",
+      "description": "Web App for Astra Daihatsu Motor",
+      "techStacks": [".NET Framework","Blazor","Ajax"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01"
+    },
+    {
+      "id": 4,
+      "name": "ADM Outbound",
+      "description": "Mobile App for Astra Daihatsu Motor",
+      "techStacks": [".NET Framework","Java","Gradle"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-01"
+    },
+    {
+      "id": 5,
+      "name": "ADM Scrapscale",
+      "description": "Web App for scaling waste",
+      "techStacks": [".NET Framework","Blazor","Ajax"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2023-07-10",
+      "endDate": "2023-07-31"
+    },
+    {
+      "id": 6,
+      "name": "ADM CWS / EWS",
+      "description": "Web app for ADM Warehouse Engine Plant",
+      "techStacks": [".NET Framework","Blazor","Ajax"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2023-08-01",
+      "endDate": "2022-12-30"
+    },
+    {
+      "id": 7,
+      "name": "Lotte Supplier Collaboration Portal (SCP)",
+      "description": "Web App for Lotte Supplier Portal",
+      "techStacks": ["CodeIgniter 3","HTML","CSS","Javascript"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2024-05-30",
+      "endDate": "2024-06-06"
+    },
+    {
+      "id": 8,
+      "name": "APPGEN",
+      "description": "Internal web app to generate applications as base projects used in AMN",
+      "techStacks": [".NET Core", "Vue.JS 2"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2023-07-30",
+      "endDate": null
+    },
+    {
+      "id": 9,
+      "name": "IAMI LMS KM",
+      "description": "E-learning Web App for Isuzu Astra Motor Indonesia",
+      "techStacks": [".NET Core", "Vue.JS 2"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2024-07-30",
+      "endDate": "2024-09-30"
+    },
+    {
+      "id": 10,
+      "name": "Maruhide PCS",
+      "description": "Warehouse Procurement Web / Mobile App for PT. Maruhide",
+      "techStacks": [".NET Core", "Vue.JS 2"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2024-01-01",
+      "endDate": "2025-04-06"
+    },
+    {
+      "id": 11,
+      "name": "KTB Smartflow",
+      "description": "Web Procurement App for Mitsubishi KTB Groupware",
+      "techStacks": [".NET Core", "Vue.JS 2"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2025-05-30",
+      "endDate": "2026-02-06"
+    },
+    {
+      "id": 12,
+      "name": "Sinergi Procurement Integrated Network (SPIN)",
+      "description": "integrated e-Procurement platform designed to streamline procurement workflows, enhance transparency, and deliver sustainable value for SINERGI and its business partners.",
+      "techStacks": [".NET Core", "Vue.JS 2"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2022-03-01",
+      "endDate": null
+    },
+    {
+      "id": 13,
+      "name": "Portfolio",
+      "description": "This website!",
+      "techStacks": [".NET Core", "Vue.JS 3", "Typescript", "Shadcn"],
+      "imageUrl": null,
+      "projectUrl": null,
+      "startDate": "2026-05-30",
+      "endDate": "2026-06-06"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "PT. Santuy Creative",
+      "position": "Software Engineer",
+      "description": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-11-30",
+      "isCurrent": false
+    },
+    {
+      "id": 2,
+      "company": "SMK Murni 2 Surakarta",
+      "position": "Computer Teacher",
+      "description": "",
+      "startDate": "2022-08-01",
+      "endDate": "2022-11-30",
+      "isCurrent": false
+    },
+    {
+      "id": 3,
+      "company": "PT. AMN Indonesia",
+      "position": "Software Engineer",
+      "description": "",
+      "startDate": "2022-12-14",
+      "endDate": "2024-12-31",
+      "isCurrent": false
+    },
+    {
+      "id": 4,
+      "company": "PT. AMN Indonesia",
+      "position": "Senior Software Engineer",
+      "description": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "isCurrent": true
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "SMKN 2 Surakarta",
+      "degree": "High School",
+      "fieldOfStudy": "Computer Science",
+      "startDate": "2016-01-01",
+      "endDate": "2018-12-31"
+    },
+    {
+      "id": 2,
+      "institution": "Duta Bangsa University",
+      "degree": "Bachelor's Degree",
+      "fieldOfStudy": "Computer Science",
+      "startDate": "2018-01-01",
+      "endDate": "2022-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "categoryId": 1,
+      "categoryName": "Backend",
+      "categoryCode": "BE",
+      "skills": [
+        { "id": 1, "name": ".NET Framework", "proficiency": 90 },
+        { "id": 2, "name": ".NET Core", "proficiency": 90 },
+        { "id": 3, "name": "Python", "proficiency": 80 },
+        { "id": 4, "name": "PHP", "proficiency": 75 }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Frontend",
+      "categoryCode": "FE",
+      "skills": [
+        { "id": 5, "name": "HTML", "proficiency": 95 },
+        { "id": 6, "name": "CSS", "proficiency": 80 },
+        { "id": 7, "name": "Javascript", "proficiency": 85 },
+        { "id": 8, "name": "Vue.JS", "proficiency": 80 }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Database",
+      "categoryCode": "DB",
+      "skills": [
+        { "id": 9, "name": "SQL Server", "proficiency": 85 },
+        { "id": 10, "name": "PostgreSQL", "proficiency": 85 },
+        { "id": 11, "name": "MySQL", "proficiency": 80 }
+      ]
+    }
+  ]
+}
